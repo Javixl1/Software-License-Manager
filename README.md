@@ -152,6 +152,10 @@ The code showed is a example where it request a license creation from you host c
 
 ![Software-License-Manager-Plugin](https://github.com/Javixl1/Software-License-Manager/blob/main/Image/License%20on%20wordpress.png?raw=true)
 
+## Wordpress plugin
+
+- [Main plugin Page](https://es.wordpress.org/plugins/software-license-manager/)
+
 ## Authors
 
 - [@javixl1](https://www.linkedin.com/in/javixl1/)
