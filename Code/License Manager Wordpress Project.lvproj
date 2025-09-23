@@ -12,8 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Sample Code.vi" Type="VI" URL="../Sample Code.vi"/>
-		<Item Name="Board.lvclass" Type="LVClass" URL="../Board/Board.lvclass"/>
-		<Item Name="Software License Manager.lvclass" Type="LVClass" URL="../Abstract License/Software License Manager.lvclass"/>
+		<Item Name="SW License Manager.lvlib" Type="Library" URL="../SW License Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
