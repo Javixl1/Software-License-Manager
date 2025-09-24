@@ -15,8 +15,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder">
-			<Item Name="Sample Code.vi" Type="VI" URL="../Sample Code.vi"/>
-			<Item Name="Your Application.vi" Type="VI" URL="../Your Application.vi"/>
+			<Item Name="Sample Code.vi" Type="VI" URL="../Examples/Sample Code.vi"/>
+			<Item Name="Your Application.vi" Type="VI" URL="../Examples/Your Application.vi"/>
+			<Item Name="License by time.vi" Type="VI" URL="../Examples/License by time.vi"/>
 		</Item>
 		<Item Name="SW License Manager.lvlib" Type="Library" URL="../SW License Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
